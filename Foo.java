@@ -1,5 +1,9 @@
 package tb.svndemo
 
+/**
+ * The Foo class models the real-world Foo system, with the exception of the
+ * Frob subcomponent, which is assumed to be using the Cashman-Knut pass-through.
+ */
 public class Foo {
     Bar bar;
 
