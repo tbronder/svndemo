@@ -11,6 +11,8 @@ public class BizUtils {
 
     public static boolean getTrue() { return true; }
 
+    public static boolean getFalse() { return false; }
+
     /**
      * The Foo and Bar classes are linked to each other,
      * so this util method will create a new instance of each,
